@@ -1,12 +1,11 @@
-# Amkam Awesome Books Project
+# Calculator App - app for Maths Magicians
 
-In this project, I built a basic React Calculator App that allows Maths Magicians to perform basic mathematical calculations. 
+In this project, I built a basic React Calculator App that allows Maths Magicians to perform basic mathematical calculations.
 I achieved that by using React, a JavaScript library for building user interfaces.
+
 #### Desktop Screenshot
 
-
 #### Mobile Screenshot
-
 
 ## Built With
 
@@ -26,8 +25,9 @@ I achieved that by using React, a JavaScript library for building user interface
 
 ## Getting Started
 
-In this project, I was asked to build a basic calculator app that allows maths magicians to perform basic mathematical calculations. 
+In this project, I was asked to build a basic calculator app that allows maths magicians to perform basic mathematical calculations.
 I will achieve that by usingb React, a JavaScript library for building user interfaces.
+
 ## Author:
 
 - Github: @<https://github.com/AmaduKamara>
