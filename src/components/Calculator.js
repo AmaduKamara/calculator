@@ -36,7 +36,7 @@ export default class Calculator extends Component {
                   9
                 </td>
                 <td className="p-6 border hover:bg-gray-200 text-center bg-orange-500 text-xl">
-                  ×
+                  *
                 </td>
               </tr>
               <tr>
