@@ -1,6 +1,9 @@
 /* Tailwind base, components, and utilities. */
+/* stylelint-disable-next-line scss/at-rule-no-unknown */
 @tailwind base;
+/* stylelint-disable-next-line scss/at-rule-no-unknown */
 @tailwind components;
+/* stylelint-disable-next-line scss/at-rule-no-unknown */
 @tailwind utilities;
 
 body {

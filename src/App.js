@@ -1,17 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import Calculator from './components/Calculator';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-
-        <h1>Calculator App</h1>
-        <p>Calculator for Maths Magicians</p>
-      </header>
-    </div>
-  );
+// eslint-disable-next-line react/prefer-stateless-function
+export default class App extends Component {
+  render() {
+    return (
+      <div>
+        <Calculator />
+      </div>
+    );
+  }
 }
-
-export default App;
