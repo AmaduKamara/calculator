@@ -28,6 +28,13 @@ I achieved that by using React, a JavaScript library for building user interface
 In this project, I was asked to build a basic calculator app that allows maths magicians to perform basic mathematical calculations.
 I will achieve that by usingb React, a JavaScript library for building user interfaces.
 
+### Installation Guide
+
+- `git clone https://github.com/AmaduKamara/calculator`
+- `cd calculator`
+- `npm install`
+- `npm run start`
+
 ## Author:
 
 - Github: @<https://github.com/AmaduKamara>
