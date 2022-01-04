@@ -5,7 +5,7 @@ export default class Calculator extends Component {
   render() {
     return (
       <div className="flex justify-center items-center h-screen">
-        <div className="w-2/6">
+        <div className="w-2/6 shadow-lg">
           <div className="text-white bg-gray-500 flex justify-end p-5 w-full">
             <span>0</span>
           </div>
