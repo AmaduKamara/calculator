@@ -20,7 +20,7 @@ I achieved that by using React, a JavaScript library for building user interface
 
 ## Live Demo
 
-<a href="">Maths Magicians</a>
+<a href="https://amkam-math-magicians.netlify.app/">Maths Magicians</a>
 
 ## Getting Started
 
