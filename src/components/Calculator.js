@@ -15,7 +15,7 @@ const Calculator = () => {
     <div className="flex justify-center items-center">
       <div className="w-4/6 shadow-lg">
         <div className="text-white bg-gray-500 flex justify-end p-5 w-full">
-          <span>{next || total || 0}</span>
+          <span className="text-2xl font-semibold">{next || total || 0}</span>
         </div>
         <table className="w-full">
           <tbody className="w-2/6">
