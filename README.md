@@ -4,8 +4,7 @@ In this project, I built a basic React Calculator App that allows Maths Magician
 I achieved that by using React, a JavaScript library for building user interfaces.
 
 #### Desktop Screenshot
-
-#### Mobile Screenshot
+![image](https://user-images.githubusercontent.com/50941074/149154474-0794abaf-c7e4-49a3-916f-39add7aa9823.png)
 
 ## Built With
 
@@ -21,7 +20,7 @@ I achieved that by using React, a JavaScript library for building user interface
 
 ## Live Demo
 
-<a href="">Maths Magicians</a>
+<a href="https://amkam-math-magicians.netlify.app/">Maths Magicians</a>
 
 ## Getting Started
 
